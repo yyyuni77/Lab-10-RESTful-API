@@ -1,4 +1,4 @@
-# Lab-10-RESTful-API
+# Lab Work 10 RESTful API
 
 ### **Team Members:**
 1. **Nur Ezzati binti Saparudin (2022899678)**
